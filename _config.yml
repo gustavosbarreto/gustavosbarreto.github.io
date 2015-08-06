@@ -1,0 +1,15 @@
+name: Luis Gustavo S. Barreto
+description: Linux Salva!
+meta_description: "Luis Gustavo S. Barreto"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://gustavosbarreto.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'http://gustavosbarreto.github.io'
+author:         'Luis Gustavo S. Barreto'
