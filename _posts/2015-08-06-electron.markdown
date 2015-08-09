@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Electron, crie aplicativos desktop com tecnologias Web"
+date: 2015-08-06 18:00
+categories: electron nodejs web
+---
+
+O [Electron](http://electron.atom.io) é framework para desenvolvimento de aplicativos para desktops utilizando tecnologias essêncialmente Web, como HTML, CSS e JavaScript. Sua principal vantagen a outros frameworks similares é a possibilidade de utilizar "código Node.js" e os milhares de módulos disponívels no [npm.js](http://www.npmjs.com).
+
+Criado pelo GitHub, o Electron é base de grandes projetos como o editor de texto [Atom](https://atom.io) e o IDE [Visual Studio Code](https://code.visualstudio.com/) da Microsoft. Sua comunidade é relativamente grande, contando com 15 mil *stargazers*, 800 *watchers*, mil *forks* e mais de 150 contribuidores na [página do projeto](https://github.com/atom/electron) no GitHub. Com esses números é improvável que projeto perca força em um futuro próximo, por isso é seguro apostar no desenvolvimento de soluções utilizando essa plataforma.
