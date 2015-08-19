@@ -1,0 +1,14 @@
+---
+layout: post
+title: "qiojs lançado!"
+date: 2015-08-17 18:00
+categories: [ qt, nodejs, iojs, javascript ]
+---
+
+Em meio as minhas _complicadas atribuições_ aqui na [O.S. Systems](http://www.ossystems.com.br) consegui, no horário de almoço, finalizar algumas
+coisas que estavam pendentes para o lançamento do [qiojs](https://github.com/gustavosbarreto/qiojs).
+
+O [qiojs](https://github.com/gustavosbarreto/qiojs) é uma plataforma baseada no [io.js](https://www.iojs.org) que integra o _event loop_ da [Qt](http://www.qt.io/) e do _io.js_
+utilizando a [libuv](http://libuv.org/). Seu objetivo principal é melhorar o desempenho de _native addon modules_ desenvolvidos
+para io.js/node.js que fazem _wrapper_ de classes da [Qt](https://qt.io). A forma de uso e execução é exatamente igual ao [io.js](https://www.iojs.org) já que
+módulos npm são compatíveis com a plataforma.
