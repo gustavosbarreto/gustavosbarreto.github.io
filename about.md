@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Sobre Mim
+layout: page
 ---
 
 Eu sou um aficionado por programação. Arte que eu descobri aos 14 anos de idade.

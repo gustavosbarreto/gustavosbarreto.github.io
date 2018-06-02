@@ -1,8 +1,12 @@
 ---
+title: qiojs lançado!
+date: 2015-08-17 18:00:00 Z
+categories:
+- qt
+- nodejs
+- iojs
+- javascript
 layout: post
-title: "qiojs lançado!"
-date: 2015-08-17 18:00
-categories: [ qt, nodejs, iojs, javascript ]
 ---
 
 Em meio as minhas _complicadas atribuições_ aqui na [O.S. Systems](http://www.ossystems.com.br) consegui, no horário de almoço, finalizar algumas

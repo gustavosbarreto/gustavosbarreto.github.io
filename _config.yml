@@ -1,15 +1,22 @@
+---
+title: Gustavosbarreto.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Luis Gustavo S. Barreto
 description: Linux Salva!
-meta_description: "Luis Gustavo S. Barreto - Linux, Qt, QML, C++, Node.js, Web, JavaScript"
-
+meta_description: Luis Gustavo S. Barreto - Linux, Qt, QML, C++, Node.js, Web, JavaScript
 markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
-domain_name: 'http://gustavosbarreto.github.io'
-google_analytics: 'UA-66494222-1'
-
-# Details for the RSS feed generator
-url:            'http://gustavosbarreto.github.io'
-author:         'Luis Gustavo S. Barreto'
+baseurl: "/"
+domain_name: http://gustavosbarreto.github.io
+google_analytics: UA-66494222-1
+url: http://gustavosbarreto.github.io
+author: Luis Gustavo S. Barreto

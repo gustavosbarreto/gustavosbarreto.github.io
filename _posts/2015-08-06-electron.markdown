@@ -1,8 +1,11 @@
 ---
+title: Electron, crie aplicativos desktop com tecnologias Web
+date: 2015-08-06 18:00:00 Z
+categories:
+- electron
+- nodejs
+- web
 layout: post
-title: "Electron, crie aplicativos desktop com tecnologias Web"
-date: 2015-08-06 18:00
-categories: electron nodejs web
 ---
 
 O [Electron](http://electron.atom.io) é framework para desenvolvimento de aplicativos para desktops utilizando tecnologias essêncialmente Web, como HTML, CSS e JavaScript. Sua principal vantagen a outros frameworks similares é a possibilidade de utilizar "código Node.js" e os milhares de módulos disponívels no [npm.js](http://www.npmjs.com).

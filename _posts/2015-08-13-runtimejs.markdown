@@ -1,8 +1,9 @@
 ---
+title: runtime.js, sistema operacional para aplicações na nuvem
+date: 2015-08-13 18:00:00 Z
+categories:
+- operating system
 layout: post
-title: "runtime.js, sistema operacional para aplicações na nuvem"
-date: 2015-08-13 18:00
-categories: [ 'operating system' ]
 ---
 
 O [runtime.js](http://runtimejs.org/) é *library operating system* (não encontrei tradução para este termo) para aplicações na nuvem. Seu objetivo
